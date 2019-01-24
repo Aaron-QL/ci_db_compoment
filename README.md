@@ -1,2 +1,1 @@
-# ci_db_compoment
-a database compoment of CI framework
+----迷橙数据库操作类----
